@@ -1,3 +1,4 @@
-Some data to show config data that was added after initial clone
-need to get this data
-More config data 
+Some data to show config data that was added after initial clone.
+need to get this data.
+More config data.
+some more config data.
